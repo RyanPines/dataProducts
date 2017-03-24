@@ -32,7 +32,7 @@ The **ToothGrowth** dataset contains 3 variables:
 (7)	From my github repo, copy the contents from the server.R file and place it in your server.R file  
 (8)	Click the Run App icon  
 (9)	**PLEASE NOTE: The link to the App is https://ryanpines.shinyapps.io/ToothGrowthApp/. However, it is currently not running as it will cost me a fee. I plan to start running it April 1st Thank you for your understanding**  
-(10) **PLEASE NOTE: Please see PNG File Images on the bottom of the page for images of the completed App in the meantime.**
+(10) **PLEASE NOTE: Please see PNG Files on my Github Repo (under the folder "Doses") for images of the completed App in the meantime.**
 
 ## Running the Application: Input and Output
 
@@ -47,19 +47,3 @@ One box plot contains the summary statistics (min, 1Q, median, 3Q, max) for the 
 Each graph contains 2 lines: a red line, which represents the mean or average tooth length for the selected dosage of the OJ supplement and a green line, which represents the mean or average tooth length for the selected dosage of the VC supplement. 
 
 The second part of the output just displays the means of the average tooth length for the selected dosages of both the OJ and VC supplements.
-
-
-## Photos of the Completed App
-
-### Half Dose
-![Half Dose](C:\\Users\\574996\\Pictures\\HalfDose.png)
-
-### One Dose
-![One Dose](C:\\Users\\574996\\Pictures\\OneDose.png)
-
-### Two Dose
-![Two Dose](C:\\Users\\574996\\Pictures\\TwoDose.png)
-
-
-### Dose Select
-![Dose Select](C:\\Users\\574996\\Pictures\\DoseSelect.png)
