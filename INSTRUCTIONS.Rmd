@@ -32,7 +32,7 @@ The **ToothGrowth** dataset contains 3 variables:
 (7)	From my github repo, copy the contents from the server.R file and place it in your server.R file  
 (8)	Click the Run App icon  
 (9)	**PLEASE NOTE: The link to the App is https://ryanpines.shinyapps.io/ToothGrowthApp/. However, it is currently not running as it will cost me a fee. I plan to start running it April 1st Thank you for your understanding**  
-(10) **PLEASE NOTE: Please see PNG Files on my Github Repo (under the folder "Doses") for images of the completed App in the meantime.**
+(10) **PLEASE NOTE: Please see PNG Files on my Github Repo for images of the completed App in the meantime.**
 
 ## Running the Application: Input and Output
 
